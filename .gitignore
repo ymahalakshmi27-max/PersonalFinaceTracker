@@ -1,0 +1,4 @@
+target/
+.idea/
+financeflow_backup.db
+*.iml
